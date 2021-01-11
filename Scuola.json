@@ -1,42 +1,78 @@
 {
-    "database scuola": [
-      {
-        "id":0,
-        "title": "LA DONNA CHE VISSE DUE VOLTE",
-        "hours": 128,
-        "Prof": "Drammatico",
-        "": "Alfred Hitchcock",
-        "anno":1958,
-        "trama":"Sofferente di vertigini dopo un incidente in servizio, John 'Scottie' Ferguson lascia la polizia e accetta di lavorare per un vecchio compagno di scuola che gli chiede di sorvegliare la moglie Madeleine che in ricorrenti stati di incoscienza sembra posseduta dallo spirito di Carlotta Valdes, sua bisnonna morta suicida un secolo prima. Ferguson resta affascinato dall'infelice donna e quando è costretto a intervenire per salvarla da un tentativo di suicidio in mare tra i due ha inizio una storia d'amore. Ma una tragedia sta per sconvolgere le vite di entrambi. Capolavoro assoluto e unanimemente riconosciuto del cinema di Alfred Hitchock il film si basa su di un romanzo di Boileau e Narcejac scritto con l'intento di piacere al regista al punto da invogliarlo a comprarne i diritti. L'azione viene spostata dagli Anni Quaranta ai Cinquanta e soprattutto viene anticipata la scoperta dell'intrigo che gli autori avevano collocato nelle pagine finali del libro. 'Intorno a me tutti erano contrari a questo cambiamento', confessò Hitch a Truffaut nella celebre intervista divenuta un libro. In realtà, con la perfetta cognizione che il regista aveva della differenza tra l'utilizzo della sorpresa e la funzione della suspense, la scelta risulta vincente. Ma non ci si limita a questo. La performance dei protagonisti è perfetta (anche se Hitchcock non sopportava Kim Novak e non perdeva occasione per parlar male di lei) e innerva il film di quell'erotismo che è spesso sotteso nei film del Maestro e che qui viene giocato con grande maestria. Ci sono abiti che vengono tolti per farli asciugare ed altri che vengono fatti indossare per ricostruire il passato mentre un colore (il grigio) si sostituisce alla tonalità dominante che è quella del verde. La sequenza delle sequoie (sempreverdi) fa da catalizzatore al colore prevalente nell'abito che Madeleine indossa la prima volta che appare sullo schermo così come a quello della sua auto per poi trovare il suo culmine in quello che a Ferguson appare come un 'ritorno' della donna amata. Hitchocok trova nella sceneggiatura alcuni dei temi che ricorrono nel suo cinema. Su tutti domina quello del Doppio che nel titolo italiano viene esplicitato, cosa che non avviene in quello originale che fornisce una sintesi perfetta sia della patologia sofferta dal protagonista sia del costante senso di instabilità esistenziale e di horror vacui che il film offre allo spettatore.",
-        "recensione":3.7,
-        "copertina":"https://pad.mymovies.it/filmclub/2002/08/070/locandinapg2.jpg",
-        "ora_in_sala": true
-      },
-      {
-        "id":1,
-        "titolo": "BORIS - IL FILM",
-        "durata": 108,
-        "genere": "Commedia",
-        "regia": "Mattia Torre, Giacomo Ciarrapico, Luca Vendruscolo",
-        "anno":2011,
-        "trama":"Renè Ferretti è intento a girare una fiction sul giovane Ratzinger ma, a causa delle solite richieste assurde del direttore di rete Lopez, decide di lasciare il mondo dello spettacolo e di ritirarsi a vita privata. Un giorno, Sergio, produttore e fido amico, lo contatta proponendogli di girare il film più importante della sua carriera: la Casta.",
-        "recensione":5,
-        "copertina":"https://pad.mymovies.it/filmclub/2010/10/026/locandina.jpg",
-        "ora_in_sala": false
-      },
-       {
-        "id":2,
-        "titolo": "IL CASO PANTANI  -  L'OMICIDO DI UN CAMPIONE",
-        "durata": 90,
-        "genere": "Drammatico",
-        "regia": "Domenico Ciolfi",
-        "anno":2020,
-        "trama": "A 16 anni dalla scomparsa del Pirata, finalmente un film porta sul grande schermo la sua storia. Il caso Pantani è un noir contemporaneo, un thriller, ma anche un film d'inchiesta, un biopic, un film drammatico. Una ricostruzione accurata e avvincente della vita del campione romagnolo che svelerà particolari inediti sulla sua morte. Marco Pantani è stato ucciso due volte: a Madonna di Campiglio, vittima di una provetta manipolata e dalla criminalità organizzata e a Rimini, cinque anni dopo, dove verrà trovato solo, disteso a terra, a petto nudo, il giorno di San Valentino. E' il racconto di Marco e delle tre fasi della sua breve vita: tre anime, tre interpreti, un solo uomo.",
-        "recensione":4.7,
-        "copertina":"https://media.gazzettadiparma.it/images/2020/10/12/1602460845505_locandina_360x514_1602460846172.jpg",
-        "ora_in_sala": true
-       }
-    ]
-  }
+  "database scuola": [
+    {
+    "id":0,
+    "img": "assets/img/logo.svg",
+    "title": "Pasticcere",
+    "hours": 600,
+    "prof": "Antonio Strala",
+    "curriculum":"#",
+    "area": "Turismo e Ristorazione",
+    "deadline":"3 marzo 2020",
+    "description":"Il corso è stato progettato per fornire in tempi brevi e con una metodologia didattica di massima efficacia, ottimi risultati sotto il profilo delle conoscenze, delle abilità manuali e delle tecniche professionali, requisiti fondamentali e indispensabili per proporsi al mercato del lavoro. Grande attenzione è posta alle attività pratiche, alla manualità e all’organizzazione del lavoro, grazie al supporto continuo in aula di maestri e docenti di altissimo profilo, all’interno di laboratori dotati delle più moderne attrezzature e tecnologie. A ciò si aggiunge il tirocinio personalizzato in strutture selezionatissime, accompagnato da un’instancabile cura e attenzione nei confronti degli allievi e delle loro personali attitudini professionali.",
+    "closed": true
+    },
+    {
+    "id":1,
+    "img": "#",
+    "title": "Pasticcere",
+    "hours": 600,
+    "prof": "Antonio Strala",
+    "curriculum":"#",
+    "area": "Turismo e Ristorazione",
+    "deadline":"3 marzo 2020",
+    "description":"Il corso è stato progettato per fornire in tempi brevi e con una metodologia didattica di massima efficacia, ottimi risultati sotto il profilo delle conoscenze, delle abilità manuali e delle tecniche professionali, requisiti fondamentali e indispensabili per proporsi al mercato del lavoro. Grande attenzione è posta alle attività pratiche, alla manualità e all’organizzazione del lavoro, grazie al supporto continuo in aula di maestri e docenti di altissimo profilo, all’interno di laboratori dotati delle più moderne attrezzature e tecnologie. A ciò si aggiunge il tirocinio personalizzato in strutture selezionatissime, accompagnato da un’instancabile cura e attenzione nei confronti degli allievi e delle loro personali attitudini professionali.",
+    "closed": true
+    },
+    {
+    "id":2,
+    "img": "#",
+    "title": "Pasticcere",
+    "hours": 600,
+    "prof": "Antonio Strala",
+    "curriculum":"#",
+    "area": "Turismo e Ristorazione",
+    "deadline":"3 marzo 2020",
+    "description":"Il corso è stato progettato per fornire in tempi brevi e con una metodologia didattica di massima efficacia, ottimi risultati sotto il profilo delle conoscenze, delle abilità manuali e delle tecniche professionali, requisiti fondamentali e indispensabili per proporsi al mercato del lavoro. Grande attenzione è posta alle attività pratiche, alla manualità e all’organizzazione del lavoro, grazie al supporto continuo in aula di maestri e docenti di altissimo profilo, all’interno di laboratori dotati delle più moderne attrezzature e tecnologie. A ciò si aggiunge il tirocinio personalizzato in strutture selezionatissime, accompagnato da un’instancabile cura e attenzione nei confronti degli allievi e delle loro personali attitudini professionali.",
+    "closed": true
+    },
+    {
+    "id":3,
+    "img": "#",
+    "title": "Pasticcere",
+    "hours": 600,
+    "prof": "Antonio Strala",
+    "curriculum":"#",
+    "area": "Turismo e Ristorazione",
+    "deadline":"3 marzo 2020",
+    "description":"Il corso è stato progettato per fornire in tempi brevi e con una metodologia didattica di massima efficacia, ottimi risultati sotto il profilo delle conoscenze, delle abilità manuali e delle tecniche professionali, requisiti fondamentali e indispensabili per proporsi al mercato del lavoro. Grande attenzione è posta alle attività pratiche, alla manualità e all’organizzazione del lavoro, grazie al supporto continuo in aula di maestri e docenti di altissimo profilo, all’interno di laboratori dotati delle più moderne attrezzature e tecnologie. A ciò si aggiunge il tirocinio personalizzato in strutture selezionatissime, accompagnato da un’instancabile cura e attenzione nei confronti degli allievi e delle loro personali attitudini professionali.",
+    "closed": true
+    },
+    {
+    "id":4,
+    "img": "#",
+    "title": "Pasticcere",
+    "hours": 600,
+    "prof": "Antonio Strala",
+    "curriculum":"#",
+    "area": "Turismo e Ristorazione",
+    "deadline":"3 marzo 2020",
+    "description":"Il corso è stato progettato per fornire in tempi brevi e con una metodologia didattica di massima efficacia, ottimi risultati sotto il profilo delle conoscenze, delle abilità manuali e delle tecniche professionali, requisiti fondamentali e indispensabili per proporsi al mercato del lavoro. Grande attenzione è posta alle attività pratiche, alla manualità e all’organizzazione del lavoro, grazie al supporto continuo in aula di maestri e docenti di altissimo profilo, all’interno di laboratori dotati delle più moderne attrezzature e tecnologie. A ciò si aggiunge il tirocinio personalizzato in strutture selezionatissime, accompagnato da un’instancabile cura e attenzione nei confronti degli allievi e delle loro personali attitudini professionali.",
+    "closed": true
+    },
+    {
+    "id":5,
+    "img": "#",
+    "title": "Pasticcere",
+    "hours": 600,
+    "prof": "Antonio Strala",
+    "curriculum":"#",
+    "area": "Turismo e Ristorazione",
+    "deadline":"3 marzo 2020",
+    "description":"Il corso è stato progettato per fornire in tempi brevi e con una metodologia didattica di massima efficacia, ottimi risultati sotto il profilo delle conoscenze, delle abilità manuali e delle tecniche professionali, requisiti fondamentali e indispensabili per proporsi al mercato del lavoro. Grande attenzione è posta alle attività pratiche, alla manualità e all’organizzazione del lavoro, grazie al supporto continuo in aula di maestri e docenti di altissimo profilo, all’interno di laboratori dotati delle più moderne attrezzature e tecnologie. A ciò si aggiunge il tirocinio personalizzato in strutture selezionatissime, accompagnato da un’instancabile cura e attenzione nei confronti degli allievi e delle loro personali attitudini professionali.",
+    "closed": true
+    }
+  ]
+}
   
   
