@@ -1,3 +1,12 @@
+////// VERIFICA /////
+/*
+var dataA = Date("2021-11-23");
+var dataB = Date("2022-11-23");
+
+(dataA >= dataB) ? azione_uno : azione_due;
+*/
+
+
 
 function openNav() {
 document.getElementById("mySidenav").style.width = "250px";
@@ -26,10 +35,34 @@ function topFunction() {
   document.body.scrollTop = 0;
   document.documentElement.scrollTop = 0;
 }
-// let page = document.getElementById("page");
-// var array_recensioni = [];
+let courses_container = document.getElementById("courses");
+var array_recensioni = [];
 
-// let myRequest = new Request("https://github.com/Tzemona/PW_Stage/blob/master/Scuola.json");
+let myRequest = new Request("https://github.com/Tzemona/PW_Stage/blob/master/Scuola.json");
+
+    
+fetch(myRequest)
+.then(function(resp){
+    return resp.json();
+})
+.then(function(data){
+
+        let i=0;
+
+        data.database.forEach(element => {
+            
+            i++;
+            //un contenitore per tutto il film
+            let course = document.createElement("div");
+            course.className = "course";
+
+            course.innerHTML = element.title;
+            
+
+            courses_container.append(course);
+        });
+    });
+
 
     
 // fetch(myRequest)
@@ -37,13 +70,10 @@ function topFunction() {
 //     return resp.json();
 // })
 // .then(function(data){
-// //console.log(data);
 
-// //gestisco l'eventuale errore nel recupero del json
-// //.catch(error => console.log("Error: " + error));
 //         let i=0;
 
-//         data.database.forEach(element => {
+//         data.database_scuola.forEach(element => {
             
 //             i++;
 //             //un contenitore per tutto il film
@@ -151,6 +181,6 @@ function topFunction() {
             
             
 
-//             page.append(macro_container);
+//             courses_container.append(macro_container);
 //         });
 //     });
