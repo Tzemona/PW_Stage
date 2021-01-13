@@ -18,7 +18,7 @@
     "hours": 600,
     "prof": "Antonio Strala",
     "curriculum":"assets/cv/CV2.pdf",
-    "area": "Turismo e Ristorazione",
+    "area": "Servizi",
     "deadline":"2020-03-21",
     "description":"Il corso è stato progettato per fornire in tempi brevi e con una metodologia didattica di massima efficacia, ottimi risultati sotto il profilo delle conoscenze, delle abilità manuali e delle tecniche professionali, requisiti fondamentali e indispensabili per proporsi al mercato del lavoro. Grande attenzione è posta alle attività pratiche, alla manualità e all’organizzazione del lavoro, grazie al supporto continuo in aula di maestri e docenti di altissimo profilo, all’interno di laboratori dotati delle più moderne attrezzature e tecnologie. A ciò si aggiunge il tirocinio personalizzato in strutture selezionatissime, accompagnato da un’instancabile cura e attenzione nei confronti degli allievi e delle loro personali attitudini professionali.",
     "closed": true
@@ -26,11 +26,11 @@
     {
     "id":2,
     "img": "#",
-    "title": "Idraulica",
+    "title": "Operatore Termoidraulico",
     "hours": 600,
     "prof": "Antonio Strala",
     "curriculum":"assets/cv/CV3.pdf",
-    "area": "Turismo e Ristorazione",
+    "area": "Meccanica",
     "deadline":"2021-05-25",
     "description":"Il corso è stato progettato per fornire in tempi brevi e con una metodologia didattica di massima efficacia, ottimi risultati sotto il profilo delle conoscenze, delle abilità manuali e delle tecniche professionali, requisiti fondamentali e indispensabili per proporsi al mercato del lavoro. Grande attenzione è posta alle attività pratiche, alla manualità e all’organizzazione del lavoro, grazie al supporto continuo in aula di maestri e docenti di altissimo profilo, all’interno di laboratori dotati delle più moderne attrezzature e tecnologie. A ciò si aggiunge il tirocinio personalizzato in strutture selezionatissime, accompagnato da un’instancabile cura e attenzione nei confronti degli allievi e delle loro personali attitudini professionali.",
     "closed": true
@@ -38,11 +38,11 @@
     {
     "id":3,
     "img": "#",
-    "title": "Meccanichessa",
+    "title": "Programmazione macchine induztriali",
     "hours": 600,
     "prof": "Antonio Strala",
     "curriculum":"assets/cv/CV4.pdf",
-    "area": "Turismo e Ristorazione",
+    "area": "Meccanica",
     "deadline":"2020-05-25",
     "description":"Il corso è stato progettato per fornire in tempi brevi e con una metodologia didattica di massima efficacia, ottimi risultati sotto il profilo delle conoscenze, delle abilità manuali e delle tecniche professionali, requisiti fondamentali e indispensabili per proporsi al mercato del lavoro. Grande attenzione è posta alle attività pratiche, alla manualità e all’organizzazione del lavoro, grazie al supporto continuo in aula di maestri e docenti di altissimo profilo, all’interno di laboratori dotati delle più moderne attrezzature e tecnologie. A ciò si aggiunge il tirocinio personalizzato in strutture selezionatissime, accompagnato da un’instancabile cura e attenzione nei confronti degli allievi e delle loro personali attitudini professionali.",
     "closed": true
@@ -50,11 +50,11 @@
     {
     "id":4,
     "img": "#",
-    "title": "Cazzone",
+    "title": "Saldatura",
     "hours": 600,
     "prof": "Antonio Strala",
     "curriculum":"assets/cv/CV5.pdf",
-    "area": "Turismo e Ristorazione",
+    "area": "Meccanica",
     "deadline":"3 marzo 2020",
     "description":"Il corso è stato progettato per fornire in tempi brevi e con una metodologia didattica di massima efficacia, ottimi risultati sotto il profilo delle conoscenze, delle abilità manuali e delle tecniche professionali, requisiti fondamentali e indispensabili per proporsi al mercato del lavoro. Grande attenzione è posta alle attività pratiche, alla manualità e all’organizzazione del lavoro, grazie al supporto continuo in aula di maestri e docenti di altissimo profilo, all’interno di laboratori dotati delle più moderne attrezzature e tecnologie. A ciò si aggiunge il tirocinio personalizzato in strutture selezionatissime, accompagnato da un’instancabile cura e attenzione nei confronti degli allievi e delle loro personali attitudini professionali.",
     "closed": true
@@ -62,7 +62,7 @@
     {
     "id":5,
     "img": "#",
-    "title": "Autisto",
+    "title": "Autista",
     "hours": 600,
     "prof": "Antonio Strala",
     "curriculum":"assets/cv/CV6.pdf",

@@ -118,6 +118,23 @@ margin-right: auto;
 display: block;
 }
 
+/* sezione corsi */
+
+.c_img {
+  width: 100%;
+  max-width: 150px;
+  }
+
+  .horiz_align{
+
+    display: inline-block;
+  }
+
+  .more{
+    display: none;
+  }
+
+  /* sezione .newsletter */
 .newsletter {
 width: 100&;
 margin: 0 auto;
