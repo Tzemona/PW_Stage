@@ -2,7 +2,7 @@
    "database":[
       {
          "id":0,
-         "img":"assets/img/bakery.jpeg",
+         "img":"assets/img/bakery.jpg",
          "title":"Pasticcere",
          "hours":500,
          "prof":"Paola Bertolli",
