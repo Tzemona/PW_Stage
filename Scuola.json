@@ -1,77 +1,75 @@
 {
-  "database": [
-    {
-    "id":0,
-    "img": "assets/img/bakery.jpeg",
-    "title": "Pasticcere",
-    "hours": 500,
-    "prof": "Paola Bertolli",
-    "curriculum":"assets/cv/CV1.pdf",
-    "area": "Turismo e Ristorazione",
-    "deadline":"2021-03-21",
-    "description":"Un intenso e pratico programma per conoscere e sperimentare di prima mano i fondamentali della pasticceria italiana professionale. La giusta quantità di Teoria e moltissima Pratica per un nuovo modo di pensare e di agire. Durante le lezioni del Corso di Pasticceria affronterai ogni argomento dal un punto di vista professionale imparando i principi chiave che stanno alla base delle varianti delle ricette.",
-    },
-    {
-    "id":1,
-    "img": "assets/img/interior_design.jpeg",
-    "title": "Interior Design",
-    "hours": 300,
-    "prof": "Alice Martinello",
-    "curriculum":"assets/cv/CV2.pdf",
-    "area": "Architettura",
-    "deadline":"2020-03-21",
-    "description": "Se vuoi imparare velocemente le regole di base dell’arredamento di interni e tutti i segreti di un programma gratuito per progettare in tre dimensioni con il tuo computer, questo è il corso che stavi cercando! Scopri come utilizzare spazi, luci e colori e come mettere facilmente in pratica le tue idee. Appena terminato il corso, potrai subito occuparti di progettazione di interni, allestimento di vetrine, stand fieristici, arredamenti, ristrutturazione e molto altro. La docente è un Architetto professionista, specializzata in Interior Design, che ha partecipato alla realizzazione di numerosi progetti importanti, anche in ambito internazionale.",
-    "closed": true
-    },
-    {
-    "id":2,
-    "img": "assets/img/termoidraulico.jpg",
-    "title": "Operatore Termoidraulico",
-    "hours": 600,
-    "prof": "Antonio Strala",
-    "curriculum":"assets/cv/CV3.pdf",
-    "area": "Meccanica",
-    "deadline":"2021-05-25",
-    "description": "Con il presente progetto si intende formare la figura professionale dell’Operatore Termoidraulico,  che si occuperà di installare, mantenere in efficienza e riparare impianti termici, idraulici, di condizionamento ed igienico sanitari. Sarà specializzata in impianti termici integrati alle fonti energetiche rinnovabili e nell’utilizzo di sistemi di contabilizzazione e termoregolazione da remoto delle centrali termiche, per raccogliere periodicamente dati per la gestione dei consumi energetici e di sistemi di monitoraggio a distanza degli impianti per misurare i parametri energetici, a fini diagnostici e di manutenzione preventiva. Infine la figura sarà in grado di gestire in autonomia tutte le procedure e gli adempimenti burocratici relativi a dichiarazioni di conformità, libretto impianto e registrazioni di dati dell’impianto e dei relativi interventi su CRITER.",
-    "closed": true
-    },
-    {
-    "id":3,
-    "img": "assets/img/macchine.jpg",
-    "title": "Programmazione macchine induztriali",
-    "hours": 500,
-    "prof": "Miachael Bazzanti",
-    "curriculum":"assets/cv/CV4.pdf",
-    "area": "Meccanica",
-    "deadline":"2020-05-25",
-    "description":"Il corso è stato progettato per fornire in tempi brevi e con una metodologia didattica di massima efficacia, ottimi risultati sotto il profilo delle conoscenze, delle abilità manuali e delle tecniche professionali, requisiti fondamentali e indispensabili per proporsi al mercato del lavoro. Grande attenzione è posta alle attività pratiche, alla manualità e all’organizzazione del lavoro, grazie al supporto continuo in aula di maestri e docenti di altissimo profilo, all’interno di laboratori dotati delle più moderne attrezzature e tecnologie. A ciò si aggiunge il tirocinio personalizzato in strutture selezionatissime, accompagnato da un’instancabile cura e attenzione nei confronti degli allievi e delle loro personali attitudini professionali.",
-    "closed": true
-    },
-    {
-    "id":4,
-    "img": "assets/img/saldatura.jpg",
-    "title": "Saldatura",
-    "hours": 350,
-    "prof": "Francesco Crociani",
-    "curriculum":"assets/cv/CV5.pdf",
-    "area": "Meccanica",
-    "deadline":"3 marzo 2020",
-    "description":"Il corso è stato progettato per fornire in tempi brevi e con una metodologia didattica di massima efficacia, ottimi risultati sotto il profilo delle conoscenze, delle abilità manuali e delle tecniche professionali, requisiti fondamentali e indispensabili per proporsi al mercato del lavoro. Grande attenzione è posta alle attività pratiche, alla manualità e all’organizzazione del lavoro, grazie al supporto continuo in aula di maestri e docenti di altissimo profilo, all’interno di laboratori dotati delle più moderne attrezzature e tecnologie. A ciò si aggiunge il tirocinio personalizzato in strutture selezionatissime, accompagnato da un’instancabile cura e attenzione nei confronti degli allievi e delle loro personali attitudini professionali.",
-    "closed": true
-    },
-    {
-    "id":5,
-    "img": "assets/img/cucito.jpg",
-    "title": "Cucito",
-    "hours": 200,
-    "prof": "Massimiliano Giangrossi",
-    "curriculum":"assets/cv/CV6.pdf",
-    "area": "Art and Craft",
-    "deadline":"3 marzo 2020",
-    "description":"Il corso è rivolto in particolare per chi è al primo approccio ed ha bisogno di una guida personale. I corsi sono infatti impostati singolarmente in orari e giorni a scelta. Anche lo svolgimento del programma ed il progetto da realizzare sarà valutato in base all'interesse dell'allievo.",
-    "closed": true
-    }
-  ]
+   "database":[
+      {
+         "id":0,
+         "img":"assets/img/bakery.jpeg",
+         "title":"Pasticcere",
+         "hours":500,
+         "prof":"Paola Bertolli",
+         "curriculum":"assets/cv/CV1.pdf",
+         "area":"Turismo e Ristorazione",
+         "deadline":"2021-03-21",
+         "description":"Un intenso e pratico programma per conoscere e sperimentare di prima mano i fondamentali della pasticceria italiana professionale. La giusta quantità di Teoria e moltissima Pratica per un nuovo modo di pensare e di agire. Durante le lezioni del Corso di Pasticceria affronterai ogni argomento dal un punto di vista professionale imparando i principi chiave che stanno alla base delle varianti delle ricette."
+      },
+      {
+         "id":1,
+         "img":"assets/img/interior_design.jpeg",
+         "title":"Interior Design",
+         "hours":300,
+         "prof":"Alice Martinello",
+         "curriculum":"assets/cv/CV2.pdf",
+         "area":"Architettura",
+         "deadline":"2020-03-21",
+         "description":"Se vuoi imparare velocemente le regole di base dell’arredamento di interni e tutti i segreti di un programma gratuito per progettare in tre dimensioni con il tuo computer, questo è il corso che stavi cercando! Scopri come utilizzare spazi, luci e colori e come mettere facilmente in pratica le tue idee. Appena terminato il corso, potrai subito occuparti di progettazione di interni, allestimento di vetrine, stand fieristici, arredamenti, ristrutturazione e molto altro. La docente è un Architetto professionista, specializzata in Interior Design, che ha partecipato alla realizzazione di numerosi progetti importanti, anche in ambito internazionale.",
+         "closed":true
+      },
+      {
+         "id":2,
+         "img":"assets/img/termoidraulico.jpg",
+         "title":"Operatore Termoidraulico",
+         "hours":600,
+         "prof":"Antonio Strala",
+         "curriculum":"assets/cv/CV3.pdf",
+         "area":"Meccanica",
+         "deadline":"2021-05-25",
+         "description":"Con il presente progetto si intende formare la figura professionale dell’Operatore Termoidraulico,  che si occuperà di installare, mantenere in efficienza e riparare impianti termici, idraulici, di condizionamento ed igienico sanitari. Sarà specializzata in impianti termici integrati alle fonti energetiche rinnovabili e nell’utilizzo di sistemi di contabilizzazione e termoregolazione da remoto delle centrali termiche, per raccogliere periodicamente dati per la gestione dei consumi energetici e di sistemi di monitoraggio a distanza degli impianti per misurare i parametri energetici, a fini diagnostici e di manutenzione preventiva. Infine la figura sarà in grado di gestire in autonomia tutte le procedure e gli adempimenti burocratici relativi a dichiarazioni di conformità, libretto impianto e registrazioni di dati dell’impianto e dei relativi interventi su CRITER.",
+         "closed":true
+      },
+      {
+         "id":3,
+         "img":"assets/img/macchine.jpg",
+         "title":"Programmazione macchine induztriali",
+         "hours":500,
+         "prof":"Miachael Bazzanti",
+         "curriculum":"assets/cv/CV4.pdf",
+         "area":"Meccanica",
+         "deadline":"2020-05-25",
+         "description":"Il corso è stato progettato per fornire in tempi brevi e con una metodologia didattica di massima efficacia, ottimi risultati sotto il profilo delle conoscenze, delle abilità manuali e delle tecniche professionali, requisiti fondamentali e indispensabili per proporsi al mercato del lavoro. Grande attenzione è posta alle attività pratiche, alla manualità e all’organizzazione del lavoro, grazie al supporto continuo in aula di maestri e docenti di altissimo profilo, all’interno di laboratori dotati delle più moderne attrezzature e tecnologie. A ciò si aggiunge il tirocinio personalizzato in strutture selezionatissime, accompagnato da un’instancabile cura e attenzione nei confronti degli allievi e delle loro personali attitudini professionali.",
+         "closed":true
+      },
+      {
+         "id":4,
+         "img":"assets/img/saldatura.jpg",
+         "title":"Saldatura",
+         "hours":350,
+         "prof":"Francesco Crociani",
+         "curriculum":"assets/cv/CV5.pdf",
+         "area":"Meccanica",
+         "deadline":"3 marzo 2020",
+         "description":"Il corso è stato progettato per fornire in tempi brevi e con una metodologia didattica di massima efficacia, ottimi risultati sotto il profilo delle conoscenze, delle abilità manuali e delle tecniche professionali, requisiti fondamentali e indispensabili per proporsi al mercato del lavoro. Grande attenzione è posta alle attività pratiche, alla manualità e all’organizzazione del lavoro, grazie al supporto continuo in aula di maestri e docenti di altissimo profilo, all’interno di laboratori dotati delle più moderne attrezzature e tecnologie. A ciò si aggiunge il tirocinio personalizzato in strutture selezionatissime, accompagnato da un’instancabile cura e attenzione nei confronti degli allievi e delle loro personali attitudini professionali.",
+         "closed":true
+      },
+      {
+         "id":5,
+         "img":"assets/img/cucito.jpg",
+         "title":"Cucito",
+         "hours":200,
+         "prof":"Massimiliano Giangrossi",
+         "curriculum":"assets/cv/CV6.pdf",
+         "area":"Art and Craft",
+         "deadline":"3 marzo 2020",
+         "description":"Il corso è rivolto in particolare per chi è al primo approccio ed ha bisogno di una guida personale. I corsi sono infatti impostati singolarmente in orari e giorni a scelta. Anche lo svolgimento del programma ed il progetto da realizzare sarà valutato in base all'interesse dell'allievo.",
+         "closed":true
+      }
+   ]
 }
-  
-  
